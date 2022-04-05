@@ -2,6 +2,7 @@
 Notes over the AWS Certified Developer (Associate) training
 
 ## Overview
+- AWS Overview
 - AWS Foundation Services
   - AWS CLI & SDK
   - Identify and Access Management (IAM)
@@ -24,3 +25,34 @@ Notes over the AWS Certified Developer (Associate) training
   - Cloud Foundation
   - AWS Developer Tools
   - AWS Shared Responsibility Model
+
+## AWS Developer Associate Topics
+- EC2: Start up virtiul compute instances
+- VPC: Start up compute instances in an isolated environment
+- IAM: Authentication mechonism
+- Route 53: Managed DNS Service
+- Elastic Beanstalk: Run codes hand off
+- Kinesis: Collect, Process, and Analyze Real-Time, Streaming Data at Any Scale With Amazon Kinesis
+- RDS: Relation Database
+- DynamoDB: NoSql DB
+- Lambda: Serverless execution environment
+- AWS API: Apis to use to interact with AWS Services
+- SQS: Managed Queue
+- SNS: Notificaiton Services
+- Security: IAM, Security Groups, ect...
+- S3: Bucket for accessing files
+- API Gateway: Expose services to the rest of the world
+- Cloud formation: One click deploy your cloud
+- AWS Developer Tools
+  - CodeCommit: Similar to GitHub and GitLab
+  - CodeBuild: Point to Repo and it will pull and build your code. Store artifacts.
+  - CodeDeploy: CI
+  - Code Pipeline: Chain Commit Build and Deploy into a pipeline
+  - CodeStar: Automate that entire process
+  - XRay: See your code flow through various Amazon Services.
+
+## Requistes Overview
+- General understanfing of programming languages
+- Examples will be done in NodeJs & Python
+- SSHClients
+- AWS Account (Free Trials available)
