@@ -51,8 +51,8 @@ Notes over the AWS Certified Developer (Associate) training
   - CodeStar: Automate that entire process
   - XRay: See your code flow through various Amazon Services.
 
-## Requistes Overview
-- General understanfing of programming languages
-- Examples will be done in NodeJs & Python
-- SSHClients
-- AWS Account (Free Trials available)
+## FAQ
+- Public, Private, Hybrid Cloud Types?
+  - Public: Someone elses datacenter
+  - Private: Your own datacenter
+  - Hybrid: Blend between the two
