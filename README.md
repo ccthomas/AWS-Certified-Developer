@@ -1,5 +1,5 @@
 # AWS-Certified-Developer
-Notes over the AWS Certified Developer (Associate) training
+Notes over the AWS Certified Developer (Associate) training. This Guide assumes a very basic knowledge of AWS.
 
 ## Overview
 - AWS Overview
